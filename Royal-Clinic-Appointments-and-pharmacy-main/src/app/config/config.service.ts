@@ -4,7 +4,7 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class ConfigService {
-  public apiBaseUrl: String = 'http://localhost:5000';
+  public apiBaseUrl: String = 'https://one-care-1.onrender.com/';
   constructor() { }
 
 
