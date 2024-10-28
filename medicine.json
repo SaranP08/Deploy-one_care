@@ -1,0 +1,137 @@
+[
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601e2" },
+    "name": "Paracetamol",
+    "description": "Paracetamol is a non-opioid analgesic and antipyretic agent used to treat fever and mild to moderate pain",
+    "qty": 93,
+    "cost": 120,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/1/FE/JA/DB/57623134/buy-amoxicillin-500-mg-tablets-online.png",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601e3" },
+    "name": "Ibuprofen",
+    "description": "Ibuprofen is a non-steroidal anti-inflammatory drug used for pain relief, fever reduction, and inflammation.",
+    "qty": 50,
+    "cost": 150,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/3/ZZ/XYZ/7896543210/ibuprofen-400-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601e4" },
+    "name": "Amoxicillin",
+    "description": "Amoxicillin is an antibiotic used to treat a wide variety of bacterial infections.",
+    "qty": 120,
+    "cost": 200,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/6/ZX/VW/0987654321/amoxicillin-500-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601e5" },
+    "name": "Aspirin",
+    "description": "Aspirin is a salicylate used to reduce pain, fever, or inflammation.",
+    "qty": 75,
+    "cost": 100,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/2/XY/AB/1234567890/aspirin-500-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601e6" },
+    "name": "Cetirizine",
+    "description": "Cetirizine is an antihistamine used to relieve allergy symptoms.",
+    "qty": 45,
+    "cost": 90,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/8/WX/LM/0987654312/cetirizine-10-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601e7" },
+    "name": "Azithromycin",
+    "description": "Azithromycin is an antibiotic for treating bacterial infections.",
+    "qty": 110,
+    "cost": 250,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/1/XY/AB/1234567899/azithromycin-250-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601e8" },
+    "name": "Metformin",
+    "description": "Metformin is used to control high blood sugar in people with type 2 diabetes.",
+    "qty": 80,
+    "cost": 200,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/6/ZT/VV/098123450/metformin-500-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601e9" },
+    "name": "Lisinopril",
+    "description": "Lisinopril is an ACE inhibitor used to treat high blood pressure and heart failure.",
+    "qty": 67,
+    "cost": 175,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/9/XC/CD/3451234567/lisinopril-10-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601ea" },
+    "name": "Simvastatin",
+    "description": "Simvastatin is a statin used to control hypercholesterolemia and reduce cardiovascular risk.",
+    "qty": 45,
+    "cost": 300,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/7/WE/JK/901234567/simvastatin-20-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601eb" },
+    "name": "Omeprazole",
+    "description": "Omeprazole is a proton pump inhibitor used to treat acid reflux and stomach ulcers.",
+    "qty": 130,
+    "cost": 180,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/5/WF/GH/345678123/omeprazole-20-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601ec" },
+    "name": "Atorvastatin",
+    "description": "Atorvastatin is used to lower cholesterol and triglyceride levels.",
+    "qty": 92,
+    "cost": 350,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/6/ZX/VT/091238657/atorvastatin-20-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601ed" },
+    "name": "Amlodipine",
+    "description": "Amlodipine is a calcium channel blocker used to treat high blood pressure.",
+    "qty": 60,
+    "cost": 125,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/4/WG/BC/9876543212/amlodipine-5-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601ee" },
+    "name": "Ciprofloxacin",
+    "description": "Ciprofloxacin is an antibiotic used to treat bacterial infections.",
+    "qty": 100,
+    "cost": 210,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/3/WE/HJ/12367890/ciprofloxacin-500-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601ef" },
+    "name": "Losartan",
+    "description": "Losartan is used to treat high blood pressure and protect the kidneys from damage due to diabetes.",
+    "qty": 87,
+    "cost": 155,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/8/ZF/JK/120987656/losartan-50-mg.jpg",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "669d2cd2bfc7bc5933d601f0" },
+    "name": "Levothyroxine",
+    "description": "Levothyroxine is used to treat hypothyroidism.",
+    "qty": 68,
+    "cost": 140,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/1/XE/HU/543212098/levothyroxine-50-mcg.jpg",
+    "__v": 0
+  }
+]
