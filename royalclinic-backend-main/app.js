@@ -45,3 +45,8 @@ app.use(errorHandler);
 app.listen(PORT, () => {
   console.log("Listening");
 });
+
+// Root Route
+app.get('/', (req, res) => {
+  res.send('Welcome to the Datalytics API!');
+});
